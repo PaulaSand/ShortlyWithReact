@@ -1,11 +1,15 @@
 import Footer from "components/Footer";
 import Header from "components/Header";
+import SecondSection from "components/SecondSection";
 import ThirdSection from "components/ThirdSection";
+import FirstSection from "components/FirstSection";
 function App() {
   return (
     <>
       <Header />
-      <h1>Hola</h1>
+      <FirstSection />
+
+      <SecondSection />
 
       <ThirdSection />
       <Footer />

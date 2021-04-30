@@ -22,7 +22,7 @@ function Header() {
             color="#A4A4A7"
             isRounded
           />
-          <Button text="hola3" bgColor="#3BD0D1" color="white" isRounded />
+          <Button text="Sign Up" bgColor="#3BD0D1" color="white" isRounded />
         </div>
       </nav>
     </HeaderStyle>
