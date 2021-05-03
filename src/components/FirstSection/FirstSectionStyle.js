@@ -35,11 +35,12 @@ const FirstSectionStyle = styled.div`
     display: flex;
     background-color: hsl(257, 27%, 26%);
     background-image: url(${imgBackg});
-    padding-bottom: -65px;
-    margin-right: 14%;
+    margin-bottom: -65px;
+    margin-right: 10%;
     margin-left: 10%;
     padding: 40px;
     justify-content: space-between;
+    overflow: overlay;
     input {
       width: 77%;
       height: 50px;

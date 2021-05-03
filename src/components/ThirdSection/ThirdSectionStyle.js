@@ -10,6 +10,7 @@ const ThirdSectionStyle = styled.div`
   background-position-x: 50%;
   background-position-y: 50%;
   background-repeat: no-repeat;
+
   h2 {
     color: white;
     margin-bottom: 25px;

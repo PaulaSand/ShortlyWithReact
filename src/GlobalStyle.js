@@ -14,7 +14,7 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: inherit;
   }
   body {
-   background-color: blue;
+   
   }
 `;
 
